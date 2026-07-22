@@ -53,3 +53,7 @@ Information Technology Student | Data Analyst | AI & ML Enthusiast
 ## 💡 Quote
 
 > "Consistency beats talent when talent doesn't work hard."
+>
+> ## 🧩 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/YOUR_USERNAME/)
