@@ -56,4 +56,4 @@ Information Technology Student | Data Analyst | AI & ML Enthusiast
 >
 > ## 🧩 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/YOUR_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shravan2512/)
